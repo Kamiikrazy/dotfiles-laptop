@@ -22,7 +22,11 @@ Copy them into your `~/.config` file. Waybar should go into `/etc/xdg/`
 
 # Binds
 `Super + Q` to open Kitty
+
 `Super + F` to open Firefox
+
 `Super + Space` to open wofi launcher
+
 `Super + Z` to open Obsidian
+
 `Super + C` to close
